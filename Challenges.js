@@ -19,7 +19,7 @@ function GetDailyChallengeVersion()
 	// var DailyChallengeVersion = 0.8;	// Added CompletedTime field
 	// var DailyChallengeVersion = 0.9;	// Changed way RefreshDate field used
 	// var DailyChallengeVersion = 1.0;	// Changed RefreshDate to time at midnight
-	var DailyChallengeVersion = 1.1;	// Changed to force Update on Playfab server
+	var DailyChallengeVersion = 1.1;	// Changed to force Update on Playfab server's
 	return DailyChallengeVersion;
 }
 
